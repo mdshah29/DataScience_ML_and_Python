@@ -1,0 +1,36 @@
+PreRequisite:  
+1. https://visualstudio.microsoft.com/downloads/ -- install Community version 
+
+
+
+Steps is provided for Windows 10.
+1. Go to https://dev.mysql.com/downloads/
+2. from download list install MySql Workbench - 
+https://dev.mysql.com/downloads/workbench/
+
+[This is required to connect MySql Server GUI based interface]
+
+3. Install MySql from download list step 1.
+			or 
+	https://dev.mysql.com/downloads/installer/
+
+Note:  use web community installer if u have internet .. mysql-installer-web-community-8.0.22.0.msi
+
+4. Go to Search window  and search for "MySql Installer - Community"
+
+- click on it 
+- now if it ask to make change in your system --> yes 
+- if it ask to change Mandatory MySQL Installer Upgrade Available -   select NO
+
+- Select Add and choose all available softwares from catlogue 
+
+- start Installation 
+
+ 
+
+
+--------------
+at last they will ask for configuration --- set password for root , u can add user also 
+
+--------------
+open mysql from mysql Workbench ...
